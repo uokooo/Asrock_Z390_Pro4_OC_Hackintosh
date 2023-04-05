@@ -6,7 +6,7 @@ MacOS：12.6.4</br>
 主板：Asrock Z390 Pro4</br>
 显卡：AMD 6800XT 16G (Type-C)</br>
 显示器：(1)Appley Display Studio</br>
-       (2)飞利浦346P1CRH （PD）</br>
+       (2)飞利浦346P1CRH （DP）</br>
 音响：Boss C5 （Usb audio）</br>
 Wifi/蓝牙：BCM94360cd (PCI-E/免驱）</br>
 鼠标：罗技mx master 3 for mac (蓝牙）</br>
