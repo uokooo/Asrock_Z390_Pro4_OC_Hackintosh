@@ -20,4 +20,4 @@ MacOS：13.5</br>
  FaceTime：Pass</br>
  USB端口：Pass</br>
 ======================</br>
-![image]()
+![image](PIC/sysinfo.png)
