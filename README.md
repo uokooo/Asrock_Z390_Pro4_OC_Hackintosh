@@ -1,7 +1,7 @@
 # Asrock Z390 Pro4 OC Hackintosh
 ======================</br>
 OC：0.90</br>
-MacOS：12.6.4</br>
+MacOS：13.5</br>
 ======================</br>
 主板：Asrock Z390 Pro4</br>
 显卡：AMD 6800XT 16G (Type-C)</br>
